@@ -67,7 +67,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["prudhvi vuda.",  "a programmer.", "a philosopher." ,"an artificial intelligence enthusiast."],
+      strings: ["prudhvi vuda.",  "a programmer.", "a philosopher." ,"an AI enthusiast.", "a software engineer"],
       typeSpeed: 100,
       loop: true,
     });
